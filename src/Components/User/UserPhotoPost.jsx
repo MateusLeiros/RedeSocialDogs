@@ -1,10 +1,10 @@
 import React from "react";
 import styles from "./UserPhotoPost.module.css";
+import useForm from "../../Hooks/useForm";
+import useFetch from "../../Hooks/useFetch";
 import Input from "../Forms/Input";
 import Button from "../Forms/Button";
 import Error from "../Helper/Error";
-import useForm from "../../Hooks/useForm";
-import useFetch from "../../Hooks/useFetch";
 import { PHOTO_POST } from "../../api";
 import { useNavigate } from "react-router-dom";
 
@@ -24,9 +24,9 @@ const UserPhotoPost = () => {
     event.preventDefault();
     const formData = new FormData();
     formData.append("img", img.raw);
-    formData.append("nome", img.value);
-    formData.append("peso", img.value);
-    formData.append("idade", img.value);
+    formData.append("nome", nome.value);
+    formData.append("peso", peso.value);
+    formData.append("idade", idade.value);
 
     const token = window.localStorage.getItem("token");
     const { url, options } = PHOTO_POST(formData, token);
