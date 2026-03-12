@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/RedeSocialDogs/static/css/main.13d8e6a4.css",
+    "main.js": "/RedeSocialDogs/static/js/main.6f8b3913.js",
+    "static/css/273.3f7ac218.chunk.css": "/RedeSocialDogs/static/css/273.3f7ac218.chunk.css",
+    "static/js/273.420e6735.chunk.js": "/RedeSocialDogs/static/js/273.420e6735.chunk.js",
+    "static/js/660.c84fc23b.chunk.js": "/RedeSocialDogs/static/js/660.c84fc23b.chunk.js",
+    "static/media/login.jpg": "/RedeSocialDogs/static/media/login.07d71f5b9d5714e556b0.jpg",
+    "static/media/enviar.svg": "/RedeSocialDogs/static/media/enviar.6af5e9dd22852c8f9db09226e587154f.svg",
+    "static/media/sair.svg": "/RedeSocialDogs/static/media/sair.a1917210ebb96c5029ada5135bdb8847.svg",
+    "static/media/visualizacao-black.svg": "/RedeSocialDogs/static/media/visualizacao-black.ee94fd3d144dfc2f335a.svg",
+    "static/media/visualizacao.svg": "/RedeSocialDogs/static/media/visualizacao.09cd5578a66295798789.svg",
+    "index.html": "/RedeSocialDogs/index.html",
+    "static/media/feed.svg": "/RedeSocialDogs/static/media/feed.b8b13312eb97d7668cf865481902a8c3.svg",
+    "static/media/usuario.svg": "/RedeSocialDogs/static/media/usuario.6d65a298e2fba2e83683.svg",
+    "static/media/dogs-footer.svg": "/RedeSocialDogs/static/media/dogs-footer.9c77af3ac7f5061f1fe127298bb19eb3.svg",
+    "static/media/dogs.svg": "/RedeSocialDogs/static/media/dogs.69bf6d229e8cb46f9023318d0802ee8f.svg",
+    "static/media/estatisticas.svg": "/RedeSocialDogs/static/media/estatisticas.c69dd1e16d1f351b25eb7f01658f7c8e.svg",
+    "static/media/adicionar.svg": "/RedeSocialDogs/static/media/adicionar.2fe277f9b2182f23c15f5afd7110067a.svg",
+    "main.13d8e6a4.css.map": "/RedeSocialDogs/static/css/main.13d8e6a4.css.map",
+    "main.6f8b3913.js.map": "/RedeSocialDogs/static/js/main.6f8b3913.js.map",
+    "273.3f7ac218.chunk.css.map": "/RedeSocialDogs/static/css/273.3f7ac218.chunk.css.map",
+    "273.420e6735.chunk.js.map": "/RedeSocialDogs/static/js/273.420e6735.chunk.js.map",
+    "660.c84fc23b.chunk.js.map": "/RedeSocialDogs/static/js/660.c84fc23b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13d8e6a4.css",
+    "static/js/main.6f8b3913.js"
+  ]
+}
